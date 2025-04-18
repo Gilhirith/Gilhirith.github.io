@@ -27,4 +27,3 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As a research associate in a neuroscience lab with a computer science background, I am working on data processing and analysis related to the connectomics studies of neural tissue volumes acquired with electron microscopy. The main focus of my current work is developing faster and more efficient algorithms for image stitching, alignment and segmentation. In addition, I am collaborating with biologists to answer biologically important questions.
