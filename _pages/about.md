@@ -9,12 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Northwest Labs Rm 254</p>
-    <p>52 Oxford St</p>
-    <p>Cambridge, MA 02138</p>
+    social: true
+    #<p>Northwest Labs Rm 254</p>
+    #<p>52 Oxford St</p>
+    #<p>Cambridge, MA 02138</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+#social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
