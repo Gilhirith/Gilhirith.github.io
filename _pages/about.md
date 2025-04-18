@@ -2,19 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research Associate @ Harvard University Lichtman Lab </a>
+#subtitle: <a href='#'>Research Associate @ Harvard University Lichtman Lab </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    #<p>Northwest Labs Rm 254</p>
-    #<p>52 Oxford St</p>
-    #<p>Cambridge, MA 02138</p>
+    <p>Research Associate @ Lichtman Lab</p>
+    <p>Harvard University</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
