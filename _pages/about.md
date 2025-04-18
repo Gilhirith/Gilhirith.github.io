@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-#subtitle: <a href='#'>Research Associate @ Harvard University Lichtman Lab </a>
+subtitle: <a href='#'>Research Associate @ Harvard University Lichtman Lab </a>
 
 profile:
   align: left
