@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shuohong Wang",
+    "Gender": "Female",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gilhirith@gmail.com / wangsh@fas.harvard.edu ",
+    "url": "https://gilhirith.github.io/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -25,12 +23,16 @@
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "position": "Postdoctoral Fellow ",
+      "startDate": "2017-10-03",
+      "endDate": "2022-10-03",
+      "highlights": ["Electron microscope image processing and analysis"]
+    }
+    {
+      "name": "Lichtman Lab, Harvard University",
+      "position": "Research Associate",
+      "startDate": "2022-10-04",
+      highlights": ["Electron microscope image processing and analysis"]"
     }
   ],
   "volunteer": [
@@ -47,24 +49,119 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "East China University of Science and Technology",
+      "location": "Shanghai, China",
+      "url": "https://www.ecust.edu.cn/en/",
+      "area": "Computer Science and Technology",
+      "studyType": "BEng. in Computer Science and Technology",
+      "startDate": "2008-09-01",
+      "endDate": "2012-07-01",
+      "score": "3.59/4.00"
+    },
+    {
+      "institution": "Fudan University",
+      "location": "Shanghai, China",
+      "url": "https://www.fudan.edu.cn/en/",
+      "area": "Computer Vision",
+      "studyType": "Doctor of Natural Science in Computer Applied Technology",
+      "startDate": "2012-09-01",
+      "endDate": "2017-06-30",
+      "score": "3.72/4.00"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Graduate of Fudan University",
+      "date": "2017-05-19",
+      "awarder": "Fudan University"
+    },
+    {
+      "title": "National scholarship for doctoral students",
+      "date": "2016",
+      "awarder": "Ministry of Education of the People's Republic of China"
+    },
+    {
+      "title": "EMC Scholarship (specific prize)",
+      "date": "2016-05-24",
+      "awarder": "EMC Corporation"
+    },
+    {
+      "title": "Academic Scholarship of Fudan University, Second Prize",
+      "date": "2015-12",
+      "awarder": "Fudan University" 
+    },
+    {
+      "title": "Academic Scholarship of Fudan University, First Prize",
+      "date": "2014-12",
+      "awarder": "Fudan University" 
+    },
+    {
+      "title": "The 11th HUAWEI cup China Graduate Mathematical Contest in Modeling, Third Prize",
+      "date": "2014-12",
+      "awarder": "Academic Degrees and Graduate Education Development Center" 
+    },
+    {
+      "title": "Academic Scholarship of Fudan University, Second Prize",
+      "date": "2013-12",
+      "awarder": "Fudan University" 
+    },
+    {
+      "title": "Outstanding Graduate of East China University of Science and Technology",
+      "date": "2012-06",
+      "awarder": "East China University of Science and Technology" 
+    },
+    {
+      "title": "Excellent School Graduation Thesis of East China University of Science and Technology",
+      "date": "2012-06-20",
+      "awarder": "East China University of Science and Technology" 
+    },
+    {
+      "title": "Mathematical Contest in Modeling, Finalist (top 1% all over the world)",
+      "date": "2012",
+      "awarder": "The Consortium for Mathematics and its Applications"
+    },
+    {
+      "title": "Mathematical Contest in Modeling, Finalist (top 1% all over the world)",
+      "date": "2011",
+      "awarder": "The Consortium for Mathematics and its Applications"
+    },
+    {
+      "title": "China Undergraduate Mathematical Contest in Modeling, First Prize",
+      "date": "2011",
+      "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China", 
+    },
+    {
+      "title": "China Undergraduate Mathematical Contest in Modeling, Second Prize",
+      "date": "2010",
+      "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China",
+    },
+    {
+      "title": "The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal",
+      "date": "2010"
+    },
+    {
+      "title": "The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal",
+      "date": "2009"
+    },
+    {
+      "title": "Academic Scholarship of East China University of Science and Technology, Second Prize",
+      "date": "2012",
+      "awarder": "East China University of Science and Technology"
+    },
+    {
+      "title": "Academic Scholarship of East China University of Science and Technology, Third Prize",
+      "date": "2011",
+      "awarder": "East China University of Science and Technology"
+    },
+    {
+      "title": "Academic Scholarship of East China University of Science and Technology, Second Prize",
+      "date": "2010",
+      "awarder": "East China University of Science and Technology"
+    }
+    {
+      "title": "Academic Scholarship of East China University of Science and Technology, First Prize",
+      "date": "2009",
+      "awarder": "East China University of Science and Technology"
     }
   ],
   "certificates": [
@@ -136,22 +233,44 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Matlab",
+        "Python",
+        "C"
+      ]
+    },
+    {
+      "name": "Algorithm",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "LeetCode: solved 900+ problems",
+        "PKU OJ: solved 1200+ problems"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Medical Image Analysis (Ultrasound, MRI, CT, pathology images)",
+        "Scanning Electron Microscopy Image Processing"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
