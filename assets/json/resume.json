@@ -56,7 +56,7 @@
       "studyType": "BEng. in Computer Science and Technology",
       "startDate": "2008-09-01", 
       "endDate": "2012-07-01",
-      "score": "3.59/4.00"
+      "score": "3.59"
     },
     {
       "institution": "Fudan University",
@@ -66,7 +66,7 @@
       "studyType": "Doctor of Natural Science in Computer Applied Technology",
       "startDate": "2012-09-01",
       "endDate": "2017-06-30",
-      "score": "3.72/4.00"
+      "score": "3.72"
     }
   ],
   "awards": [
@@ -76,8 +76,7 @@
       "awarder": "Fudan University"
     },
     {
-      "title": "National scholarship for doctoral students",
-      "date": "2016",
+      "title": "National scholarship for doctoral students, 2016",
       "awarder": "Ministry of Education of the People's Republic of China"
     },
     {
@@ -86,28 +85,23 @@
       "awarder": "EMC Corporation"
     },
     {
-      "title": "Academic Scholarship of Fudan University, Second Prize",
-      "date": "2015-12",
+      "title": "Academic Scholarship of Fudan University, Second Prize, 2015",
       "awarder": "Fudan University" 
     },
     {
-      "title": "Academic Scholarship of Fudan University, First Prize",
-      "date": "2014-12",
+      "title": "Academic Scholarship of Fudan University, First Prize, 2014",
       "awarder": "Fudan University" 
     },
     {
-      "title": "The 11th HUAWEI cup China Graduate Mathematical Contest in Modeling, Third Prize",
-      "date": "2014-12",
+      "title": "2014 The 11th HUAWEI cup China Graduate Mathematical Contest in Modeling, Third Prize",
       "awarder": "Academic Degrees and Graduate Education Development Center" 
     },
     {
-      "title": "Academic Scholarship of Fudan University, Second Prize",
-      "date": "2013-12",
+      "title": "Academic Scholarship of Fudan University, Second Prize, 2013",
       "awarder": "Fudan University" 
     },
     {
-      "title": "Outstanding Graduate of East China University of Science and Technology",
-      "date": "2012-06",
+      "title": "Outstanding Graduate of East China University of Science and Technology, 2012",
       "awarder": "East China University of Science and Technology" 
     },
     {
@@ -116,51 +110,41 @@
       "awarder": "East China University of Science and Technology" 
     },
     {
-      "title": "Mathematical Contest in Modeling, Finalist (top 1% all over the world)",
-      "date": "2012",
+      "title": "2012 Mathematical Contest in Modeling, Finalist (top 1% all over the world)",
       "awarder": "The Consortium for Mathematics and its Applications"
     },
     {
-      "title": "Mathematical Contest in Modeling, Finalist (top 1% all over the world)",
-      "date": "2011",
+      "title": " 2011 Mathematical Contest in Modeling, Finalist (top 1% all over the world)",
       "awarder": "The Consortium for Mathematics and its Applications"
     },
     {
-      "title": "China Undergraduate Mathematical Contest in Modeling, First Prize",
-      "date": "2011",
+      "title": "2011 China Undergraduate Mathematical Contest in Modeling, First Prize",
       "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China" 
     },
     {
-      "title": "China Undergraduate Mathematical Contest in Modeling, Second Prize",
-      "date": "2010",
+      "title": " 2010 China Undergraduate Mathematical Contest in Modeling, Second Prize",
       "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China"
     },
     {
-      "title": "The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal",
-      "date": "2010"
+      "title": "2010 The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal"
     },
     {
-      "title": "The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal",
-      "date": "2009"
+      "title": "2009 The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal"
     },
     {
-      "title": "Academic Scholarship of East China University of Science and Technology, Second Prize",
-      "date": "2012",
+      "title": "Academic Scholarship of East China University of Science and Technology, Second Prize, 2012",
       "awarder": "East China University of Science and Technology"
     },
     {
-      "title": "Academic Scholarship of East China University of Science and Technology, Third Prize",
-      "date": "2011",
+      "title": "Academic Scholarship of East China University of Science and Technology, Third Prize, 2011",
       "awarder": "East China University of Science and Technology"
     },
     {
-      "title": "Academic Scholarship of East China University of Science and Technology, Second Prize",
-      "date": "2010",
+      "title": "Academic Scholarship of East China University of Science and Technology, Second Prize, 2010",
       "awarder": "East China University of Science and Technology"
     }
     {
-      "title": "Academic Scholarship of East China University of Science and Technology, First Prize",
-      "date": "2009",
+      "title": "Academic Scholarship of East China University of Science and Technology, First Prize, 2009",
       "awarder": "East China University of Science and Technology"
     }
   ],
