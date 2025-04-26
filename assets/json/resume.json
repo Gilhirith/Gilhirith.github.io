@@ -3,7 +3,7 @@
     "name": "Shuohong Wang",
     "Gender": "Female",
     "image": "",
-    "email": "gilhirith@gmail.com / wangsh@fas.harvard.edu ",
+    "email": "gilhirith@gmail.com / wangsh@fas.harvard.edu",
     "url": "https://gilhirith.github.io/",
     "location": {
       "address": "2712 Broadway St",
@@ -22,17 +22,17 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Lichtman Lab, Harvard University",
       "position": "Postdoctoral Fellow ",
       "startDate": "2017-10-03",
       "endDate": "2022-10-03",
       "highlights": ["Electron microscope image processing and analysis"]
-    }
+    },
     {
       "name": "Lichtman Lab, Harvard University",
       "position": "Research Associate",
       "startDate": "2022-10-04",
-      highlights": ["Electron microscope image processing and analysis"]"
+      "highlights": ["Electron microscope image processing and analysis"]
     }
   ],
   "volunteer": [
@@ -54,7 +54,7 @@
       "url": "https://www.ecust.edu.cn/en/",
       "area": "Computer Science and Technology",
       "studyType": "BEng. in Computer Science and Technology",
-      "startDate": "2008-09-01",
+      "startDate": "2008-09-01", 
       "endDate": "2012-07-01",
       "score": "3.59/4.00"
     },
@@ -128,12 +128,12 @@
     {
       "title": "China Undergraduate Mathematical Contest in Modeling, First Prize",
       "date": "2011",
-      "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China", 
+      "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China" 
     },
     {
       "title": "China Undergraduate Mathematical Contest in Modeling, Second Prize",
       "date": "2010",
-      "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China",
+      "awarder": "Department of Higher Education, Ministry of Education of the People's Republic of China"
     },
     {
       "title": "The ACM International Collegiate Programming Contest (ICPC) Asia Regional, Bronze Medal",
