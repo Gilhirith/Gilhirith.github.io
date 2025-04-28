@@ -38,23 +38,36 @@
       institution: Lichtman Lab, Harvard University
       year: 2022 - Present
       description:
-        - Working on developing methods to accurately and efficiently stitch and align large EM data sets (TB to PB level), including human cerebral cortex, mouse cerebellum, zebrafish brain, etc.
-        - Investigating deep learning techniques to evaluate and improve image stitching and alignment quality, including image artifact detection, stitching error detection and correction.
-        - Analyzing mouse cerebellum electron microscopy data (collaborating with neuroscientists in our lab).
-        - Participated in developing methods to identify and segment neuronal structures in electronic microscope images.
     - title: Postdoctoral Fellow 
       institution: Lichtman Lab, Harvard University
       year: 2017 - 2022
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Research Projects
   type: time_table
   contents:
     - title: Electron microscope image processing and analysis
+      institution: Lichtman Lab, Harvard University
       year: 2016 - Present
       description:
+        - Working on developing methods to accurately and efficiently stitch and align large EM data sets (TB to PB level), including human cerebral cortex, mouse cerebellum, zebrafish brain, etc.
+        - Investigating deep learning techniques to evaluate and improve image stitching and alignment quality, including image artifact detection, stitching error detection and correction.
+        - Analyzing mouse cerebellum electron microscopy data (collaborating with neuroscientists in our lab).
+        - Participated in developing methods to identify and segment neuronal structures in electronic microscope images.
+    - title: Machine-learning-based automatic computer-aided diagnosis systems
+      institution: collaborate with Shanghai Changzheng Hospital / Shanghai University of Engineering Science
+      year: 2015 - Present
+      description:
+        - Working on using image processing techniques to help diagnose cirrhosis with liver ultrasound images. The system combines cues from both liver capsule and parenchyma to diagnose and determine the progression stages of cirrhosis.
+        - Participating in developing deep learning methods to diagnose prostate cancer with MRI images.
+        - Participated in developing deep learning methods to segment lung cancer metastasis lesion region in pathological images.
+    - title: 2D / 3D multi-object tracking and behavior analysis
+      institution: collaborate with Laboratory of Learning and Memory at Institute of Neuroscience, Chinese Academy of Sciences / Shanghai University / Shanghai University of Engineering Science
+        - Collected 2D / 3D datasets of fish school and drosophila swarms with high speed camera(s).
+        - Worked on developing methods to reliably track fish school and drosophila swarms in 2D/3D space.
+        - Proposed to use Long-Short Term Memory (LSTM) network to model the kinematic patterns of the motion of single object and implemented it in a tracking system to improve the tracking accuracy.
+        - Collaborated with neuroscientists to analyze drosophila behavior.
+        - Participated in developing methods to detect dense crowds of microbes from microscope images.
 
 - title: Editor Experience
   type: list
