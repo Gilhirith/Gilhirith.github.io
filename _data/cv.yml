@@ -61,8 +61,8 @@
 - title: Editor Experience
   type: nested_list
   contents:
-    - title: Guest Editor of a special issue of <Information> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
-    - title: Guest Editor of a Methods Collection of JoVE titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
+    - Guest Editor of a special issue of <Information> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
+    - Guest Editor of a Methods Collection of JoVE titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
 
 - title: Skills
   type: nested_list
@@ -85,7 +85,7 @@
 - title: Reviewer Experience
   type: nested_list
   contents:
-    - title <u>Reviewed more than 200 manuscripts for journals / conferences including but not limited to:</u>
+    - title: <u>Reviewed more than 200 manuscripts for journals / conferences including but not limited to:</u>
       items:
         - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
         - International Conference on Learning Representations (ICLR) 2025
