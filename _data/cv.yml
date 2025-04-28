@@ -63,6 +63,7 @@
         - Participated in developing deep learning methods to segment lung cancer metastasis lesion region in pathological images.
     - title: 2D / 3D multi-object tracking and behavior analysis
       institution: collaborate with Laboratory of Learning and Memory at Institute of Neuroscience, Chinese Academy of Sciences / Shanghai University / Shanghai University of Engineering Science
+      year: 2011 - Present
         - Collected 2D / 3D datasets of fish school and drosophila swarms with high speed camera(s).
         - Worked on developing methods to reliably track fish school and drosophila swarms in 2D/3D space.
         - Proposed to use Long-Short Term Memory (LSTM) network to model the kinematic patterns of the motion of single object and implemented it in a tracking system to improve the tracking accuracy.
@@ -73,7 +74,7 @@
   type: list
   contents:
     - Guest Editor of a special issue of <a href="https://www.mdpi.com/journal/information">Information</a> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
-    - title: Guest Editor of a Methods Collection of <a href="https://app.jove.com/">JoVE</a> titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
+    - Guest Editor of a Methods Collection of <a href="https://app.jove.com/">JoVE</a> titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
 
 - title: Skills
   type: nested_list
@@ -85,8 +86,8 @@
         - C
     - title: Algorithm
       items:
-        - <u>LeetCode:</u> solved 900+ problems
-        - <u>PKU OJ:</u> solved 1200+ problems
+        - 'LeetCode: solved 900+ problems'
+        - 'PKU OJ: solved 1200+ problems'
     - title: Computer Vision
       items:
         - Medical Image Analysis (Ultrasound, MRI, CT, pathology images)
@@ -94,9 +95,9 @@
     - Machine Learning
 
 - title: Reviewer Experience
-  type: nested_list
+  type: list
   contents:
-    - title: <u>Reviewed more than 200 manuscripts for journals / conferences including but not limited to:</u>
+    - title: 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
       items:
         - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
         - International Conference on Learning Representations (ICLR) 2025
