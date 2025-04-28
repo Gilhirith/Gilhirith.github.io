@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Shuohong Wang
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Gender
+      value: Female
     - name: Languages
       value: Chinese, English
 
@@ -15,35 +15,40 @@
       institution: Fudan University, Shanghai, China
       year: 2012 - 2017
       description:
-        - GPA: 3.72/4.00 (Top 5%)
-        - Research Area: Computer Vision
-        - Main Topic: Multiple object tracking, biological and medical image analysis
+        - GPA
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - 3.72 / 4.00 (Top 5%)
+        - Research Area
+          contents:
+            - Computer Vision
+        - Main Topic
+          contents:
+            - Multiple object tracking, biological and medical image analysis
     - title: BEng. in Computer Science and Technology
       institution: East China University of Science and Technology, Shanghai, China
       year: 2008 - 2012
       description:
-        - GPA: 3.59/4.00 (Top 5%)
-        - Graduation Thesis: 3D photography measurement and analysis of a large scale moving group (Excellent School Graduation Thesi)
+        - GPA
+          contents:
+            - 3.59 / 4.00 (Top 5%)
+        - Graduation Thesis
+          contents:
+            - 3D photography measurement and analysis of a large scale moving group (Excellent School Graduation Thesis)
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate
+      institution: Lichtman Lab, Harvard University
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - title: Working on developing methods to accurately and efficiently stitch and align large EM data sets (TB to PB level), including human cerebral cortex, mouse cerebellum, zebrafish brain, etc.
+        - Investigating deep learning techniques to evaluate and improve image stitching and alignment quality, including image artifact detection, stitching error detection and correction.
+        - Analyzing mouse cerebellum electron microscopy data (collaborating with neuroscientists in our lab).
+        - Participated in developing methods to identify and segment neuronal structures in electronic microscope images.
+    - title: Postdoctoral Fellow 
+      institution: Lichtman Lab, Harvard University
+      year: 2017 - 2022
       description:
         - Description 1.
         - Description 2.
