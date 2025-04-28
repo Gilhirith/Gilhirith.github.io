@@ -26,9 +26,7 @@
       institution: East China University of Science and Technology, Shanghai, China
       year: 2008 - 2012
       description:
-        - title: GPA
-          contents:
-            - 3.59 / 4.00 (Top 5%)
+        - 'GPA: 3.59 / 4.00 (Top 5%)'
         - title: Graduation Thesis
           contents:
             - 3D photography measurement and analysis of a large scale moving group (Excellent School Graduation Thesis)
@@ -59,10 +57,10 @@
       description:
 
 - title: Editor Experience
-  type: nested_list
+  type: list
   contents:
-    - title: Guest Editor of a special issue of <Information> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
-    - title: Guest Editor of a Methods Collection of JoVE titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
+    - Guest Editor of a special issue of <a href="https://www.mdpi.com/journal/information">Information</a> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
+    - title: Guest Editor of a Methods Collection of <a href="https://app.jove.com/">JoVE</a> titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
 
 - title: Skills
   type: nested_list
