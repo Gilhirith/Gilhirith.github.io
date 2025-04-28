@@ -64,6 +64,7 @@
     - title: 2D / 3D multi-object tracking and behavior analysis
       institution: collaborate with Laboratory of Learning and Memory at Institute of Neuroscience, Chinese Academy of Sciences / Shanghai University / Shanghai University of Engineering Science
       year: 2011 - Present
+      description:
         - Collected 2D / 3D datasets of fish school and drosophila swarms with high speed camera(s).
         - Worked on developing methods to reliably track fish school and drosophila swarms in 2D/3D space.
         - Proposed to use Long-Short Term Memory (LSTM) network to model the kinematic patterns of the motion of single object and implemented it in a tracking system to improve the tracking accuracy.
@@ -97,7 +98,7 @@
 - title: Reviewer Experience
   type: list
   contents:
-    - title: 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
+    - 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
       items:
         - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
         - International Conference on Learning Representations (ICLR) 2025
