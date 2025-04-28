@@ -98,7 +98,7 @@
 - title: Reviewer Experience
   type: list
   contents:
-    - 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
+    - title: 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
       items:
         - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
         - International Conference on Learning Representations (ICLR) 2025
