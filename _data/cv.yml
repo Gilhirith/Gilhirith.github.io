@@ -15,23 +15,23 @@
       institution: Fudan University, Shanghai, China
       year: 2012 - 2017
       description:
-        - GPA
+        - title: GPA
           contents:
             - 3.72 / 4.00 (Top 5%)
-        - Research Area
+        - title: Research Area
           contents:
             - Computer Vision
-        - Main Topic
+        - title: Main Topic
           contents:
             - Multiple object tracking, biological and medical image analysis
     - title: BEng. in Computer Science and Technology
       institution: East China University of Science and Technology, Shanghai, China
       year: 2008 - 2012
       description:
-        - GPA
+        - title: GPA
           contents:
             - 3.59 / 4.00 (Top 5%)
-        - Graduation Thesis
+        - title: Graduation Thesis
           contents:
             - 3D photography measurement and analysis of a large scale moving group (Excellent School Graduation Thesis)
 
@@ -53,48 +53,98 @@
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Electron microscope image processing and analysis
+      year: 2016 - Present
+      description:
+
+- title: Editor Experience
+  type: nested_list
+  contents:
+    - Guest Editor of a special issue of <Information> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
+    - Guest Editor of a Methods Collection of JoVE titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Graduate of Fudan University
+    - year: 2016
       items:
-        - Max Planck Medal
+        - National scholarship for doctoral students
+    - year: 2016
+      items:
+        - EMC Scholarship (specific prize)
+    - year: 2015
+      items:
+        - Academic Scholarship of Fudan University, Second Prize
+    - year: 2014
+      items:
+        - Academic Scholarship of Fudan University, First Prize
+    - year: 2014
+      items:
+        - The 11th HUAWEI cup China Graduate Mathematical Contest in Modeling, Third Prize
+    - year: 2013
+      items:
+        - Academic Scholarship of Fudan University, Second Prize
+    - year: 2012
+      items:
+        - Outstanding Graduate of East China University of Science and Technology
+    - year: 2012
+      items:
+        - Excellent School Graduation Thesis of East China University of Science and Technology
+    - year: 2012
+      items:
+        - Mathematical Contest in Modeling, Finalist (top 1% all over the world)
+    - year: 2012
+      items:
+        - Academic Scholarship of East China University of Science and Technology, Second Prize
+    - year: 2011
+      items:
+        - Mathematical Contest in Modeling, Finalist (top 1% all over the world)
+    - year: 2011
+      items:
+        - China Undergraduate Mathematical Contest in Modeling, First Prize
+    - year: 2011
+      items:
+        - Academic Scholarship of East China University of Science and Technology, Third Prize
+    - year: 2010
+      items:
+        - China Undergraduate Mathematical Contest in Modeling, Second Prize
+    - year: 2010
+      items:
+        - The ACM International Collegiate Programming Contest (ICPC) Asia Regional
+    - year: 2010
+      items:
+        - Academic Scholarship of East China University of Science and Technology, Second Prize
+    - year: 2009
+      items:
+        - The ACM International Collegiate Programming Contest (ICPC) Asia Regional
+    - year: 20090
+      items:
+        - Academic Scholarship of East China University of Science and Technology, First Prize
 
-- title: Academic Interests
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Matlab
+        - Python
+        - C
+    - title: Algorithm
       items:
-        - Description 1.
-        - Description 2.
+        - LeetCode: solved 900+ problems
+        - PKU OJ: solved 1200+ problems
+    - title: Computer Vision
+      items:
+        - Medical Image Analysis (Ultrasound, MRI, CT, pathology images)
+        - Scanning Electron Microscopy Image Processing
+    - Machine Learning
 
 - title: Other Interests
   type: list
