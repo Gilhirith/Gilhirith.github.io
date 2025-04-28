@@ -15,7 +15,7 @@
       institution: Fudan University, Shanghai, China
       year: 2012 - 2017
       description:
-        - <u>GPA:</u> 3.72 / 4.00 (Top 5%)
+        - 'GPA:' 3.72 / 4.00 (Top 5%)
         - title: Research Area
           contents:
             - Computer Vision
@@ -64,6 +64,41 @@
     - title: Guest Editor of a special issue of <Information> titled <a href="https://www.mdpi.com/journal/information/special_issues/stitchin_alignment_app_in_bio_images">Stitching, Alignment and Segmentation Applications in Biomedical Images</a>
     - title: Guest Editor of a Methods Collection of JoVE titled <a href="https://app.jove.com/methods-collections/3466/computer-vision-techniques-for-biomedical-image-analysis">Computer Vision Techniques for Biomedical Image Analysis</a>
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming languages
+      items:
+        - Matlab
+        - Python
+        - C
+    - title: Algorithm
+      items:
+        - <u>LeetCode:</u> solved 900+ problems
+        - <u>PKU OJ:</u> solved 1200+ problems
+    - title: Computer Vision
+      items:
+        - Medical Image Analysis (Ultrasound, MRI, CT, pathology images)
+        - Scanning Electron Microscopy Image Processing
+    - Machine Learning
+
+- title: Reviewer Experience
+  type: nested_list
+  contents:
+    - title <u>Reviewed more than 200 manuscripts for journals / conferences including but not limited to:</u>
+      items:
+        - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
+        - International Conference on Learning Representations (ICLR) 2025
+        - ACM Multimedia (ACM MM) 2024
+        - IEEE Transactions on Image Processing
+        - ACM Computing Surveys
+        - Pattern Recognition
+        - Neurocomputing
+        - Expert Systems With Applications
+        - IEEE Transactions on Circuits and Systems for Video Technology
+        - eLife
+        - Scientific Reports 
+        - ...
 - title: Honors and Awards
   type: time_table
   contents:
@@ -124,25 +159,6 @@
     - year: 20090
       items:
         - Academic Scholarship of East China University of Science and Technology, First Prize
-
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Programming languages
-      items:
-        - Matlab
-        - Python
-        - C
-    - title: Algorithm
-      items:
-        - <u>LeetCode:</u> solved 900+ problems
-        - <u>PKU OJ:</u> solved 1200+ problems
-    - title: Computer Vision
-      items:
-        - Medical Image Analysis (Ultrasound, MRI, CT, pathology images)
-        - Scanning Electron Microscopy Image Processing
-    - Machine Learning
 
 - title: Other Interests
   type: list
