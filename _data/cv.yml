@@ -98,19 +98,18 @@
 - title: Reviewer Experience
   type: list
   contents:
-    - title: 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
-      items:
-        - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
-        - International Conference on Learning Representations (ICLR) 2025
-        - ACM Multimedia (ACM MM) 2024
-        - IEEE Transactions on Image Processing
-        - ACM Computing Surveys
-        - Pattern Recognition
-        - Neurocomputing
-        - Expert Systems With Applications
-        - IEEE Transactions on Circuits and Systems for Video Technology
-        - eLife
-        - Scientific Reports 
+    - 'Reviewed more than 200 manuscripts for journals / conferences including but not limited to:'
+    - Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
+    - International Conference on Learning Representations (ICLR) 2025
+    - ACM Multimedia (ACM MM) 2024
+    - IEEE Transactions on Image Processing
+    - ACM Computing Surveys
+    - Pattern Recognition
+    - Neurocomputing
+    - Expert Systems With Applications
+    - IEEE Transactions on Circuits and Systems for Video Technolog
+    - eLife
+    - Scientific Reports 
 
 - title: Honors and Awards
   type: time_table
