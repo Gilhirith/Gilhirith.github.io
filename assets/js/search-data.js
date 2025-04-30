@@ -423,12 +423,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-machine-learning-based-automatic-computer-aided-diagnosis-systems",
           title: 'Machine-learning-based automatic computer-aided diagnosis systems',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-2d-3d-multi-object-tracking-and-behavior-analysis",
           title: '2D/3D multi-object tracking and behavior analysis',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
