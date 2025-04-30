@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Machine-learning-based automatic computer-aided diagnosis systems
-description: a project with a background image and giscus comments
+description: 
 img: assets/img/liver_cirrhosis.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

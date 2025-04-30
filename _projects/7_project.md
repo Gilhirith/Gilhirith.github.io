@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2D/3D multi-object tracking and behavior analysis
-description: with background image
+description: 
 img: assets/img/3d_tracking.png
 importance: 3
 category: work
