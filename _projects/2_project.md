@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Machine-learning-based automatic computer-aided diagnosis systems
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/liver_cirrhosis.png
 importance: 2
 category: work
 giscus_comments: true
