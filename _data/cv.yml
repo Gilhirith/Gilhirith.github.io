@@ -90,9 +90,9 @@
       items:
         - 'LeetCode: solved 900+ problems'
         - 'PKU OJ: solved 1200+ problems'
-    - title: Computer Vision
+    - title: Biomedical Image Analysis
       items:
-        - Medical Image Analysis (Ultrasound, MRI, CT, pathology images)
+        - Medical Image Analysis (Ultrasound, CT, pathology images)
         - Scanning Electron Microscopy Image Processing
     - Machine Learning
 
